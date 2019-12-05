@@ -1,0 +1,84 @@
+[
+	{
+		"id": "City",
+		"sort_key": "London",
+		"best_time": "January - February",
+		"average_price": 100,
+		"average_age": 20,
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019"
+	},
+	{
+		"id": "London",
+		"sort_key": "0",
+		"score": 10001,
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019",
+		"text_information": "Average place where a dick head call stu stays"
+	},
+	{
+		"id": "London",
+		"sort_key": "1",
+		"score": 10000,
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019",
+		"text_information": "This is comment 1"
+	},
+	{
+		"id": "London",
+		"sort_key": "2",
+		"score": 9,
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019",
+		"text_information": "This is comment 2"
+	},
+	{
+		"id": "London",
+		"sort_key": "3",
+		"score": 8,
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019",
+		"text_information": "This is comment 3"
+	},
+	{
+		"id": "City",
+		"sort_key": "Paris",
+		"best_time": "January - February",
+		"average_price": 100,
+		"average_age": 20,
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019"
+	},
+	{
+		"id": "Paris",
+		"sort_key": "0",
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019",
+		"text_information": "story about paris",
+		"score": 10001
+	},
+	{
+		"id": "Paris",
+		"sort_key": "1",
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019",
+		"text_information": "This is comment 1",
+		"score": 9
+	},
+	{
+		"id": "Paris",
+		"sort_key": "2",
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019",
+		"text_information": "This is comment 2",
+		"score": 8
+	},
+	{
+		"id": "Paris",
+		"sort_key": "3",
+		"created_at": "25/11/2019",
+		"last_updated": "25/11/2019",
+		"text_information": "This is comment 3",
+		"score": 8
+	}
+]
